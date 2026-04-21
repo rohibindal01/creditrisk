@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+.env/
+models/saved/*.keras
+models/saved/*.h5
+pipeline/artifacts/
+pipeline/tuner/
+.DS_Store
+.idea/
+.vscode/
